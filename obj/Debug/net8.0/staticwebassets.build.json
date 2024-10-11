@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gw5yGfOyyZMGVAfjVrjSTnY4AbN4StEfkgmoZc73UHM=",
+  "Source": "ScoreAnnouncementAPI",
+  "BasePath": "_content/ScoreAnnouncementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
